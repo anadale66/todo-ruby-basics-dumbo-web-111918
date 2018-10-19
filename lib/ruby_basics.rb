@@ -6,8 +6,8 @@ def assign_variable(value)
   bob = value 
 end
 
-def argue
-  
+def argue(x)
+  return x
 end
 
 def greeting
